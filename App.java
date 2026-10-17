@@ -8,6 +8,6 @@ class App{
 		System.out.println("Hello World");
 		Add addition = (a, b) -> a+b;
 
-		System.out.println(addition(10, 20));
+		System.out.println(addition.add(10, 20));
 	}
 }
