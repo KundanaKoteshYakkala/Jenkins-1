@@ -1,6 +1,7 @@
 interface Add{
 	public int add(int a, int b);
 }
+
 class App{
 	public static void main(String[] args){
 		System.out.println("Hello Kotesh.");
